@@ -10,3 +10,5 @@ F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\net6.0\E
 F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\net6.0\refint\Entities.dll
 F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\net6.0\Entities.pdb
 F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\net6.0\ref\Entities.dll
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
