@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QpAqM7lnu6h97shkm8b+iPd9eWaVTI4VZZOJhVL4xjmuMrvksSpxYcL5o9+b+5XHTwMt6DebQGFNZSvY74Sx/A==",
+  "success": true,
+  "projectFilePath": "F:\\Projetos\\Estudos Csharp\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Weydson F\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Weydson F\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Weydson F\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

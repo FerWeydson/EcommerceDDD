@@ -1,0 +1,12 @@
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\bin\Debug\net6.0\ApplicationApp.deps.json
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\bin\Debug\net6.0\ApplicationApp.dll
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\bin\Debug\net6.0\ApplicationApp.pdb
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.csproj.AssemblyReference.cache
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.AssemblyInfoInputs.cache
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.AssemblyInfo.cs
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.csproj.CoreCompileInputs.cache
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.dll
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\refint\ApplicationApp.dll
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.pdb
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ref\ApplicationApp.dll
