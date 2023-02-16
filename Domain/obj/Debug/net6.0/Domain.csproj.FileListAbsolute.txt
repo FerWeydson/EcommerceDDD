@@ -10,3 +10,6 @@ F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\Domain\obj\Debug\net6.0\Dom
 F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\Domain\obj\Debug\net6.0\refint\Domain.dll
 F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\Domain\obj\Debug\net6.0\Domain.pdb
 F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\Domain\obj\Debug\net6.0\ref\Domain.dll
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\Domain\bin\Debug\net6.0\Entities.dll
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\Domain\bin\Debug\net6.0\Entities.pdb
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete

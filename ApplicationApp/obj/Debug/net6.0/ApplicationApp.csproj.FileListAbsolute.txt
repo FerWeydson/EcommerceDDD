@@ -10,3 +10,8 @@ F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\ne
 F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\refint\ApplicationApp.dll
 F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.pdb
 F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ref\ApplicationApp.dll
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\bin\Debug\net6.0\Domain.dll
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\bin\Debug\net6.0\Entities.dll
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\bin\Debug\net6.0\Domain.pdb
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\bin\Debug\net6.0\Entities.pdb
+F:\Projetos\Estudos Csharp\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.csproj.CopyComplete
